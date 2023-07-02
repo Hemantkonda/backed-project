@@ -1,3 +1,3 @@
-// const PORT = 3535;
-
-// exports.module = PORT
+module.exports = {
+    PORT : 7777
+}
